@@ -1,1 +1,1 @@
-h
+The dataset spans from January 1, 2018, to December 31, 2021, and includes daily rental data for four districts: Gwangjin-gu, Dongdaemun-gu, Seongdong-gu, and Jungnang-gu. Each district's data is recorded in thousands of rentals per day. I will use LSTM
